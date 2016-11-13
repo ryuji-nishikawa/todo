@@ -1,5 +1,5 @@
 <h1>サンプルアプリ12</h1>
-<h2>問い合わせフォーム161113</h2>
+<h2>問い合わせフォーム161113その2</h2>
 
 <?php echo $this->Form->create('Contact',array(
 	'type' => 'POST',
