@@ -1,5 +1,9 @@
 <h1>サンプルアプリ12</h1>
+<<<<<<< HEAD
+<h2>問い合わせフォーム161120のブランチテスト後</h2>
+=======
 <h2>問い合わせフォーム161120その1</h2>
+>>>>>>> master
 
 <?php echo $this->Form->create('Contact',array(
 	'type' => 'POST',
