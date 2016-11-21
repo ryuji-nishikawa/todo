@@ -14,7 +14,11 @@
 echo $this->Form->file('name');
 ?>
 <?php echo $this->Form->end(array(
+<<<<<<< HEAD
 	'label' => 'ブランチ2を作った、そしてさらにブランチ2のみ変更した',
+=======
+	'label' => '1個目のブランチにも修正を加えてみた',
+>>>>>>> test-branch
 	'name' => 'confirm',
 	'div' => array(
 		'class' => 'formConfirm'
