@@ -14,7 +14,7 @@
 echo $this->Form->file('name');
 ?>
 <?php echo $this->Form->end(array(
-	'label' => '確認',
+	'label' => 'ブランチ2を作った、そしてさらにブランチ2のみ変更した',
 	'name' => 'confirm',
 	'div' => array(
 		'class' => 'formConfirm'
