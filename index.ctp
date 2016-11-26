@@ -31,9 +31,15 @@ echo $this->Form->file('name');
 <?php echo $this->Form->end(array(
 
 	'label' => 'ブランチ2を作った、そしてさらにブランチ2のみ変更した',
+<<<<<<< HEAD
+	'name' => 'これがやり直した部分',
+	'order' => 'これがやり直した部分2',
+	'recursive' => 0',
+=======
 
 	'name' => 'confirm',
 
+>>>>>>> master
 	'div' => array(
 
 		'class' => 'formConfirm'
