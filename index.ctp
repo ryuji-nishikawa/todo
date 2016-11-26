@@ -17,6 +17,7 @@ echo $this->Form->file('name');
 	'label' => 'ブランチ2を作った、そしてさらにブランチ2のみ変更した',
 	'name' => 'これがやり直した部分',
 	'order' => 'これがやり直した部分2',
+	'recursive' => 0',
 	'div' => array(
 		'class' => 'formConfirm'
 	)
